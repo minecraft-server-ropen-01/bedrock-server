@@ -1,4 +1,3 @@
 Dedicated_Server.txt
-[INFO] Player connected: ropenrom19, xuid: 2535457634724580
 [INFO] Server stop requested.
 [INFO] Stopping server...
