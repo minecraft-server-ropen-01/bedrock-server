@@ -1,4 +1,0 @@
-Dedicated_Server.txt
-[INFO] Player connected: Steve, xuid: 
-[INFO] Server stop requested.
-[INFO] Stopping server...
