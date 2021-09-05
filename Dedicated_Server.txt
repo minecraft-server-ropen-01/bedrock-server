@@ -1,0 +1,16 @@
+Dedicated_Server.txt
+[2021-09-05 05:17:46 INFO] Starting Server
+[2021-09-05 05:17:46 INFO] Version 1.17.11.01
+[2021-09-05 05:17:46 INFO] Session ID d1447db3-efe7-48cd-8903-b5593717382c
+[2021-09-05 05:17:46 INFO] Level Name: Bedrock level
+[2021-09-05 05:17:46 INFO] Game mode: 0 Survival
+[2021-09-05 05:17:46 INFO] Difficulty: 1 EASY
+[INFO] opening worlds/Bedrock level/db
+[INFO] IPv4 supported, port: 19132
+[INFO] IPv6 not supported
+[INFO] IPv4 supported, port: 53314
+[INFO] IPv6 not supported
+[INFO] Server started.
+[INFO] Player connected: Steve, xuid: 
+[INFO] Server stop requested.
+[INFO] Stopping server...
